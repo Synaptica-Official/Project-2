@@ -58,8 +58,6 @@ This is the Jacobian matrix for the given function.
 - The determinant of the Jacobian matrix (Jacobian determinant) is useful in coordinate transformations and multiple integrals[4].
 - In higher dimensions, the process is similar but with more partial derivatives to calculate[5].
 
-Remember, the Jacobian matrix is a powerful tool in multivariable calculus, providing crucial information about how a function behaves locally in terms of stretching, rotating, or transforming space[3].
-
 Citations:
 
 [1] https://www.emathhelp.net/en/calculators/calculus-3/jacobian-calculator/ 
